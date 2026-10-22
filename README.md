@@ -6,6 +6,8 @@
 
 **Kelas:** PBKK C
 
+Blog: https://aminudinwijaya25.blogspot.com/2026/10/tugas-week-7-pbkk-c-tugas-kelompok.html
+
 ## 1. Jelaskan perbedaan aplikasi desktop dengan aplikasi lain? Mengapa masih dibutuhkan?
 
 Aplikasi desktop adalah perangkat lunak yang dipasang dan dijalankan secara langsung pada sistem operasi komputer, seperti Windows, macOS, atau Linux. SIHIFA termasuk aplikasi desktop karena dibuat menggunakan WPF dan .NET untuk dijalankan pada sistem operasi Windows. Berbeda dengan aplikasi web yang diakses melalui browser dan umumnya bergantung pada koneksi internet serta server, aplikasi desktop dapat menjalankan proses dan menyimpan data secara langsung pada komputer pengguna. Sementara itu, aplikasi mobile dirancang khusus untuk ponsel atau tablet sehingga antarmukanya disesuaikan dengan layar kecil, penggunaan layar sentuh, serta keterbatasan sumber daya perangkat.
